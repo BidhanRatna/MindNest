@@ -4,7 +4,7 @@ MindNest is a safe and anonymous online space designed to support mental well-be
 
 The platform offers:
 
-Anonymous, real-time chat rooms by topic
+Anonymous, real-time chatrooms by topic
 
 The ability to create and comment on personal posts
 
@@ -15,7 +15,7 @@ Mental health resources to promote healing and self-care
 MindNest fosters a sense of belonging for anyone struggling with emotional challenges. Privacy and compassion are at the heart of the platform.
 
 # Hello this is Arjun
-# Hi, I am Aana. 
 
+Hi I again made the changes, I am a shameless guy haha
 
 thi sis hte first change.
